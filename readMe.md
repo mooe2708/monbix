@@ -5,7 +5,7 @@ u can fill query on data.txt
 node moonbix.js if u haven't proxy
 
 
-run multi u can used command noode moonbixnuyul.js
+run multi u can used command node moonbixnuyul.js
 
 
 pke vpn if u use termux on android!! 
