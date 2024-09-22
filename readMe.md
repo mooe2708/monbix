@@ -6,6 +6,8 @@ node moonbix.js if u haven't proxy
 
 
 run multi u can used command noode moonbixnuyul.js
+
+
 pke vpn if u use termux on android!! 
 moga jp ser
 
